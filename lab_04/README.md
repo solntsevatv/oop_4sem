@@ -1,5 +1,5 @@
-Чтобы построить проект:
-mkdir bin
-cd bin
-cmake ..
-cmake --build .
+Чтобы построить проект:<br><br>
+mkdir bin <br>
+cd bin<br>
+cmake ..<br>
+cmake --build .<br>
